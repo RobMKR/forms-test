@@ -1,0 +1,11 @@
+*   Trying 127.0.0.1...
+* Connected to police.dev (127.0.0.1) port 80 (#0)
+> POST /api/ticket/physical HTTP/1.1
+Host: police.dev
+Accept: */*
+Content-Length: 191
+Content-Type: application/x-www-form-urlencoded
+
+* upload completely sent off: 191 out of 191 bytes
+* The requested URL returned error: 500 Internal Server Error
+* Closing connection 0
